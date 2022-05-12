@@ -1,0 +1,10 @@
+ANIMAL_ID,INTAKE_CONDITION,ANIMAL_NAME,SEX_UPON_INTAKE
+1,Normal,Jack,Neutered Male
+2,Normal,Disciple,Intact Male
+3,Normal,Katie,Spayed Female
+4,Normal,Anna,Spayed Female
+5,Wounded,Cherry,Intact Male
+6,Normal,Abo,Intact FeMale
+7,Normal,Perry,Intact FeMale
+8,Wounded,Uri,Intact FeMale
+9,Normal,Sun,Neutered Male

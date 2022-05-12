@@ -1,0 +1,1 @@
+create table animal(id int(6), animal_type varchar(30), name varchar(10))

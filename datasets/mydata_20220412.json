@@ -1,0 +1,107 @@
+[
+    {
+      "fields": {
+        "latlon": "37.6561818,127.6063861", 
+        "start_date_time": "2022-02-27T02:03:00Z", 
+        "start_date_time_local": "2022-02-27T11:03:00Z", 
+        "end_date_time_local": "2022-02-27T11:03:00Z", 
+        "search_terms": [
+          "__IFTTTButton__ 2022", 
+          "__IFTTTButton__ Sunday", 
+          "__IFTTTButton__ February", 
+          "__IFTTTButton__ Wee", 
+          "__IFTTTButton__ Timezone", 
+          "__IFTTTButton__ Asia/Seoul", 
+          "__Seasons__ winter"
+        ], 
+        "augmenter_list": [
+          "__IFTTTButton__", 
+          "__Seasons__"
+        ], 
+        "displayable_data": {
+          "Keywords": [
+            "__IFTTTButton__ 2022", 
+            "__IFTTTButton__ Sunday", 
+            "__IFTTTButton__ February", 
+            "__IFTTTButton__ Wee", 
+            "__Seasons__ winter"
+          ], 
+          "__IFTTTButton__ Timezone": "Asia/Seoul", 
+          "Suggestions": []
+        }, 
+        "end_date_time": "2022-02-27T02:03:00Z", 
+        "user_id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058"
+      }, 
+      "id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058::44121dd9-c89a-420f-9d6e-f6fbb507c9b3"
+    }, 
+    {
+      "fields": {
+        "latlon": "37.6561818,127.6063861", 
+        "start_date_time": "2022-02-27T02:03:00Z", 
+        "start_date_time_local": "2022-02-27T11:03:00Z", 
+        "end_date_time_local": "2022-02-27T11:03:00Z", 
+        "search_terms": [
+          "__IFTTTButton__ 2022", 
+          "__IFTTTButton__ Sunday", 
+          "__IFTTTButton__ February", 
+          "__IFTTTButton__ Poop", 
+          "__IFTTTButton__ Timezone", 
+          "__IFTTTButton__ Asia/Seoul", 
+          "__Seasons__ winter"
+        ], 
+        "augmenter_list": [
+          "__IFTTTButton__", 
+          "__Seasons__"
+        ], 
+        "displayable_data": {
+          "Keywords": [
+            "__IFTTTButton__ 2022", 
+            "__IFTTTButton__ Sunday", 
+            "__IFTTTButton__ February", 
+            "__IFTTTButton__ Poop", 
+            "__Seasons__ winter"
+          ], 
+          "__IFTTTButton__ Timezone": "Asia/Seoul", 
+          "Suggestions": []
+        }, 
+        "end_date_time": "2022-02-27T02:03:00Z", 
+        "user_id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058"
+      }, 
+      "id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058::e2f5ff4a-d1dd-42f7-90e8-8d11c05d7cda"
+    }, 
+    {
+      "fields": {
+        "latlon": "37.6561813,127.6063975", 
+        "start_date_time": "2022-02-27T01:55:00Z", 
+        "start_date_time_local": "2022-02-27T10:55:00Z", 
+        "end_date_time_local": "2022-02-27T10:55:00Z", 
+        "search_terms": [
+          "__IFTTTButton__ 2022", 
+          "__IFTTTButton__ Sunday", 
+          "__IFTTTButton__ February", 
+          "__IFTTTButton__ Wee", 
+          "__IFTTTButton__ Timezone", 
+          "__IFTTTButton__ Asia/Seoul", 
+          "__Seasons__ winter"
+        ], 
+        "augmenter_list": [
+          "__IFTTTButton__", 
+          "__Seasons__"
+        ], 
+        "displayable_data": {
+          "Keywords": [
+            "__IFTTTButton__ 2022", 
+            "__IFTTTButton__ Sunday", 
+            "__IFTTTButton__ February", 
+            "__IFTTTButton__ Wee", 
+            "__Seasons__ winter"
+          ], 
+          "__IFTTTButton__ Timezone": "Asia/Seoul", 
+          "Suggestions": []
+        }, 
+        "end_date_time": "2022-02-27T01:55:00Z", 
+        "user_id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058"
+      }, 
+      "id": "ap-northeast-1:2e27dcae-401b-461b-b23d-86141c4fa058::963c5943-c966-43f6-a155-98bafec85334"
+    }
+  ]
